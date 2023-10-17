@@ -1,0 +1,39 @@
+NAME: BRIAN MURITHI 
+REG NO: SCT212-0148/2022 
+UNIT NAME: NETWORK SYSTEMS AND ADMINISTRATION.
+UNIT CODE: BIT 2204
+YEA: 2.1
+
+ASSIGNMENT 1
+QUESTION 1 
+In 300 words, write a write-up on the differences and similarities between the 7-layer OSI reference model and the TCP/IP model
+ANSWER
+The OSI reference model and the TCP/IP model are two widely used networking models that help implement network protocols. 
+SIMILARITIES
+    1. Layered structure layers follow a layered structure that divides the network communication             processes into multiple layers. each layer performs a different function
+    2. Data encapsulation in both, data encapsulation is used where data from higher layers is wrapped within the lower-level headers.
+    3. Protocol stacks both models implement a protocol stack approach where each layer interacts with the corresponding layer.
+    4. Widely used both models have been used widely in the networking industry.
+    5. Conceptual framework in both models, a conceptual framework for understanding network protocols is used. They are also structured so that they analyze network communication, making it easy to troubleshoot.
+DIFFERENCES
+NO
+OSI MODEL
+TCP/IP MODEL  RESPECTIVELY
+1
+It has 7 layers. I.e. physical layer, data link layer, network layer, transport layer, session layer, presentation layer, and application layer.
+It has 4 layers i.e., network interface layer, internet layer, transport layer, and application layer.
+2
+It is complex and allows greater flexibility
+It is simple and more streamlined
+3
+It focuses on the separation of concerns and data encapsulation.
+It focuses on end-to-end communication and routing.
+4
+Each layer has specific functions and responsibilities.
+Layers are strictly defined and often combined into a single layer.
+5
+Can be used to understand various networks
+Specially designed for the internet.
+6
+Theoretical model
+Practical model
